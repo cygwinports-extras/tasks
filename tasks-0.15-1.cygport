@@ -1,0 +1,4 @@
+inherit gnome2
+
+HOMEPAGE="http://www.pimlico-project.org/"
+SRC_URI="http://pimlico-project.org/sources/${PN}/${P}.tar.gz"
