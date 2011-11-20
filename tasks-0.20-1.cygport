@@ -1,0 +1,3 @@
+inherit gnome2
+
+HOMEPAGE="http://www.pimlico-project.org/"
